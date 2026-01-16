@@ -2,7 +2,7 @@
 
 ## Overview
 
-We develop a method to make valid inference after LASSO-based variable selection in GLMs. Code examples include logistic, Poisson, and beta regression.
+We develop a method to make valid inference after LASSO-based variable selection in GLMs via parametric programming. Code examples include logistic, Poisson, and beta regression.
 
 ## Reference Codebase
 
